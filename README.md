@@ -31,7 +31,7 @@ The table below lists each tool used in this report and its purpose.
 | Tool | Purpose |
 | :---- | :---- |
 | **Kali Linux & Windows** | Operating systems used for reconnaissance activities |
-| **WHOIS** | Find domain registration details (owner, dates, name servers). |
+| **whois** | Find domain registration details (owner, dates, name servers). |
 | **whatweb** | Fingerprint web technologies (server, CMS, plugins, IP). |
 | **nslookup** | Resolve the domain name to its IP address using DNS. |
 | **curl \-I** | Read the HTTP response headers of the website. |
