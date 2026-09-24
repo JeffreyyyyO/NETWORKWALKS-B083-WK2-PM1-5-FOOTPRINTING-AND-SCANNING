@@ -8,7 +8,7 @@ W2-PM-FINAL | CYBERSECURITY |  NETWORKWALKS
 | :---- | :---- |
 | **Program/Batch** | B083-Networkwalks |
 | **Date** | 23 September, 2026 |
-| **Modules completed** | W2-PM1 (Multiple Kali Tools) W2-PM5 (Zenmap Scanning) |
+| **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM2 (Google Hacking Database)<br>W2-PM3 (Maltego)<br>W2-PM4 (theHarvester)<br>W2-PM5 (Zenmap Scanning) |
 | **Client/Target** | 1\. Networkwalks (secured written permission already)<br>2\. My own local LAN Network |
 | **Permission secured from client?** | Yes |
 | **Phases covered** | Phase 1: Reconnaissance & Footprinting;<br>Phase 2: Scanning |
