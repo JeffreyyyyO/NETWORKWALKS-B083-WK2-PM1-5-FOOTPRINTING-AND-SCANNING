@@ -62,11 +62,11 @@ Using **Nslookup,** I resolved the domain name to its IP address. The provided r
 
 I used Curl with the \-I option to inspect the HTTP response headers. This provided additional information about the web application and exposed the WordPress REST API endpoint, **/wp-json/.**
 
-#### **4.1.5 WAFW00F**
+### **4.1.5 WAFW00F**
 
 Next, I used **Wafw00f** to determine whether a Web Application Firewall was protecting the website. The result identified **ModSecurity (SpiderLabs)** web application firewall.
 
-**4.1.6 DNSRECON**
+### **4.1.6 DNSRECON**
 
 I used **DNSRecon** to enumerate DNS records. The results provided information relating to name servers, mail servers, SPF/TXT records, service records and DNS software information.
 
